@@ -1,4 +1,4 @@
-# Programming Assignment 3 - Colossus Airlines
+# Programming Assignment 3 
 
 ## What This Assignment Was About
 
@@ -8,7 +8,7 @@ The main idea was to make a program where someone could choose a flight and mana
 
 ## How I Made It
 
-I used a `struct` to keep track of each seat. Each seat has a seat number, whether it is assigned or not, and the customer's first and last name.
+I used a `struct` to keep track of every seat. Each seat has a seat number, whether it is assigned or not, and the customer's first and last name.
 
 I also used arrays for the flights and the seats. The program has 3 different menus, so you first choose if you want an inbound or outbound flight, then choose the flight number, and then choose what you want to do with the seats.
 

@@ -1,0 +1,6 @@
+Hello! This is my Programming Assignment 5.
+
+For this assignment, I created a client and server using C.
+The client requests a file, and the server sends back its contents.
+
+This is my sample file to test if everything is working!
