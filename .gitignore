@@ -1,0 +1,4 @@
+calendar
+*.o
+*.db
+.DS_Store
