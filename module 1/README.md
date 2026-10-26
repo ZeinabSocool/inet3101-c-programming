@@ -1,0 +1,2 @@
+Module 1
+For this assignment I set up my C programming environment on my Mac and got everything working. I created and ran my first C program using clang, and it successfully prints my name, Zeinab Eleie.
